@@ -1,5 +1,5 @@
 puts 'Leap Year Counter'
-#wish I knew how to make a ruby method, would make this alot easier
+
 leap_count = 0
 
 puts 'please enter the starting year'
